@@ -128,14 +128,14 @@
     background-color: #e44d26; /* Couleur HTML */
 }
 
-.skill-level.js-ts {
-    width: 70%;
+.skill-level.la-an {
+    width: 50%;
     background-color: #f0db4f; /* Couleur JS */
     color: #333;
 }
 
 .skill-level.ja-py{
-    width: 50%;
+    width: 60%;
     background-color: #82aef0; /* Couleur JS */
 }
 
